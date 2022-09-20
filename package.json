@@ -1,0 +1,25 @@
+{
+  "name": "kuid",
+  "version": "1.0.0",
+  "description": "a package for generate unique ids named kId",
+  "main": "kuid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kehiy/kuid.git"
+  },
+  "keywords": [
+    "kehiy",
+    "uniqueId",
+    "kId",
+    "kuid"
+  ],
+  "author": "Keyhan Alizadeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kehiy/kuid/issues"
+  },
+  "homepage": "https://github.com/kehiy/kuid#readme"
+}
